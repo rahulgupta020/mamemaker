@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mememaker/static/css/main.b83c6463.css",
-    "main.js": "/mememaker/static/js/main.d3bf8c64.js",
-    "static/js/787.7f831edb.chunk.js": "/mememaker/static/js/787.7f831edb.chunk.js",
-    "index.html": "/mememaker/index.html",
-    "main.b83c6463.css.map": "/mememaker/static/css/main.b83c6463.css.map",
-    "main.d3bf8c64.js.map": "/mememaker/static/js/main.d3bf8c64.js.map",
-    "787.7f831edb.chunk.js.map": "/mememaker/static/js/787.7f831edb.chunk.js.map"
+    "main.css": "/mamemaker/static/css/main.b83c6463.css",
+    "main.js": "/mamemaker/static/js/main.be0af40d.js",
+    "static/js/787.7f831edb.chunk.js": "/mamemaker/static/js/787.7f831edb.chunk.js",
+    "index.html": "/mamemaker/index.html",
+    "main.b83c6463.css.map": "/mamemaker/static/css/main.b83c6463.css.map",
+    "main.be0af40d.js.map": "/mamemaker/static/js/main.be0af40d.js.map",
+    "787.7f831edb.chunk.js.map": "/mamemaker/static/js/787.7f831edb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b83c6463.css",
-    "static/js/main.d3bf8c64.js"
+    "static/js/main.be0af40d.js"
   ]
 }
