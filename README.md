@@ -1,71 +1,22 @@
-# Getting Started with Create React App
+# mememaker
+Project Description:-
+MemeMix is your go-to tool for creating and sharing memes in seconds. With a click, you can generate a random meme, and then unleash your creativity by adding witty captions. Customize your text with different fonts, sizes, and colors. Share your unique sense of humor with the world in no time. It's instant meme magic!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Requirement:-
+1) Make a button which picks a random image when the user clicks on it and shows it.
+2) Make two input boxes viz. Top and bottom and a button named “APPLY'' which puts entered text on the photo like the one below.
+3) Adjacent to every input there should be a dropdown to select font size among [16,18,20,22] and 3 radio buttons viz red, blue, green. Ensure only one font size and one color is selected.
+4) Showing on top of the image will be done using css ofcourse.
 
-## Available Scripts
 
-In the project directory, you can run:
+If you want to run this project. Simple clone it. and run Command "npm install". after it it will install node_modules folder. now can you can run this project using "npm start".
 
-### `npm start`
+screen:
+First Page:
+![image](https://github.com/rahulgupta020/memehub/assets/42673573/6b60f1a2-3cf4-4c33-81f2-515aa87d711f)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Input Search:
+![image](https://github.com/rahulgupta020/memehub/assets/42673573/af31607c-e238-46de-bd97-ef411dcb1d15)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# mamemaker
+Image Click Model:-
+![image](https://github.com/rahulgupta020/memehub/assets/42673573/b358d22a-f714-44e1-9e47-40e0510f7bb2)
