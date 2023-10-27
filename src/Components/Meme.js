@@ -65,14 +65,14 @@ class Meme extends React.Component {
     }
 
     render() {
-        
+
         const { fontvalue, colorvalue } = this.state;
 
         return (
             <>
                 <div className="home">
                     <p className="heading1">
-                        Create Unique Memes
+                        MemeMix: Instant Meme Maker
                     </p>
                     <div className="container">
                         <div class="input-block1">
@@ -141,10 +141,10 @@ class Meme extends React.Component {
                     </div> */}
                     <div className="image-container">
                         <img src={this.state.random} width="450" height="290" alt="Meme" />
-                        <div className="image-text image-text-top" style={{ fontSize: `${fontvalue}px`, color: colorvalue}}>
+                        <div className="image-text image-text-top" style={{ fontSize: `${fontvalue}px`, color: colorvalue }}>
                             {this.state.search1}
                         </div>
-                        <div className="image-text image-text-bottom" style={{ fontSize: `${fontvalue}px`, color: colorvalue}}>
+                        <div className="image-text image-text-bottom" style={{ fontSize: `${fontvalue}px`, color: colorvalue }}>
                             {this.state.search2}
                         </div>
                     </div>
